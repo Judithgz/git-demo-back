@@ -1,2 +1,6 @@
-hi
-created
+holis
+lo hiciste
+
+Ahora usamos GUI
+segunda linea en GUI
+Tercera GUI
